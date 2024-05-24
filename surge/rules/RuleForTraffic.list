@@ -12,11 +12,15 @@ DOMAIN-SUFFIX,4kvm.pro
 
 # xiaoxintv
 DOMAIN-SUFFIX,xiaoxintv.net
-DOMAIN-WILDCARD,*.tfbg*.com,extended-matching
-DOMAIN-WILDCARD,*.tfboy*.com,extended-matching
 
 # iyf.tv
 DOMAIN-SUFFIX,iyf.tv
+DOMAIN-WILDCARD,*.tfbg*.com,extended-matching
+DOMAIN-WILDCARD,*.tfboy*.com,extended-matching
+
+# duonaovod.com
+DOMAIN-SUFFIX,duonaovod.com
+DOMAIN-SUFFIX,v82u1l.com
 
 DOMAIN-SUFFIX,civitai.com
 DOMAIN,registry.yarnpkg.com
