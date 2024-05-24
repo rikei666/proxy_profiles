@@ -9,8 +9,14 @@ DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,cableav.tv
 DOMAIN-SUFFIX,4kvm.org
 DOMAIN-SUFFIX,4kvm.pro
-DOMAIN-SUFFIX,iyf.tv
+
+# xiaoxintv
 DOMAIN-SUFFIX,xiaoxintv.net
+DOMAIN-WILDCARD,*.tfbg*.com,GroupForTraffic,extended-matching
+DOMAIN-WILDCARD,*.tfboy*.com,GroupForTraffic,extended-matching
+
+# iyf.tv
+DOMAIN-SUFFIX,iyf.tv
 
 DOMAIN-SUFFIX,civitai.com
 DOMAIN,registry.yarnpkg.com
