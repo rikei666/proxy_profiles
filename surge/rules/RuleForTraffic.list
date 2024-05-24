@@ -1,27 +1,12 @@
 # NAME: RuleForTraffic.list
 
-# dnvod
-DOMAIN-SUFFIX,dnvod.org
-DOMAIN-SUFFIX,wls911.com
-DOMAIN-SUFFIX,olelive.com
-DOMAIN-SUFFIX,olemovienews.com
-DOMAIN-SUFFIX,olevod.com
-DOMAIN-SUFFIX,cableav.tv
-DOMAIN-SUFFIX,4kvm.org
-DOMAIN-SUFFIX,4kvm.pro
+##################################
+# media
+##################################
 
-# xiaoxintv
-DOMAIN-SUFFIX,xiaoxintv.net
-
-# iyf.tv
-DOMAIN-SUFFIX,iyf.tv
-DOMAIN-WILDCARD,*.tfbg*.com,extended-matching
-DOMAIN-WILDCARD,*.tfboy*.com,extended-matching
-
-# duonaovod.com
-DOMAIN-SUFFIX,duonaovod.com
-DOMAIN-SUFFIX,v82u1l.com
-
+##################################
+# download
+##################################
 DOMAIN-SUFFIX,civitai.com
 DOMAIN,registry.yarnpkg.com
 DOMAIN-SUFFIX,download.pytorch.org
