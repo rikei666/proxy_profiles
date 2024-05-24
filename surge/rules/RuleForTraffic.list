@@ -12,8 +12,8 @@ DOMAIN-SUFFIX,4kvm.pro
 
 # xiaoxintv
 DOMAIN-SUFFIX,xiaoxintv.net
-DOMAIN-WILDCARD,*.tfbg*.com,GroupForTraffic,extended-matching
-DOMAIN-WILDCARD,*.tfboy*.com,GroupForTraffic,extended-matching
+DOMAIN-WILDCARD,*.tfbg*.com,extended-matching
+DOMAIN-WILDCARD,*.tfboy*.com,extended-matching
 
 # iyf.tv
 DOMAIN-SUFFIX,iyf.tv
