@@ -1,0 +1,16 @@
+# NAME: RuleForOpenVPN.list
+
+DOMAIN,git.fusionfintrade.com
+DOMAIN,oa.fusionfintrade.com
+DOMAIN,harbor-dev.fusionfintrade.com
+DOMAIN,confluence.fusionfintrade.com
+DOMAIN,fk.fusionfintrade.com
+DOMAIN,nexus.fusionfintrade.com
+DOMAIN,password.fusionfintrade.com
+IP-CIDR,10.30.3.0/24,no-resolve
+IP-CIDR,10.30.4.0/24,no-resolve
+IP-CIDR,10.110.0.0/16,no-resolve
+IP-CIDR,121.37.155.162/32,no-resolve
+IP-CIDR,124.71.185.182/32,no-resolve
+IP-CIDR,192.168.200.0/22,no-resolve
+IP-CIDR,192.168.220.0/22,no-resolve

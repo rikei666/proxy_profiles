@@ -1,0 +1,27 @@
+# NAME: RuleForTraffic.list
+
+# dnvod
+DOMAIN-SUFFIX,dnvod.org
+DOMAIN-SUFFIX,wls911.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,olemovienews.com
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,cableav.tv
+DOMAIN-SUFFIX,4kvm.org
+DOMAIN-SUFFIX,4kvm.pro
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,xiaoxintv.net
+
+DOMAIN-SUFFIX,civitai.com
+DOMAIN,registry.yarnpkg.com
+DOMAIN-SUFFIX,download.pytorch.org
+DOMAIN-SUFFIX,public.boxcloud.com
+DOMAIN-SUFFIX,downloads.marketplace.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
+DOMAIN-SUFFIX,download.jetbrains.com
+DOMAIN-SUFFIX,files.pythonhosted.org
+DOMAIN-SUFFIX,cdn-lfs.huggingface.co
+DOMAIN-SUFFIX,pypi.org
+
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN,sjtueducn-my.sharepoint.com
